@@ -1,12 +1,12 @@
-title: Example ELN
-short-title: ELN # this prepended to the page title
-author: Your Name
+title: RKC Analysis
+short-title: RKC Analysis for Predictability # this prepended to the page title
+author: Arjun Karuvally
 website: https://github.com/tlnagy/jekyll-lab-notebook
 description: >
-  This is a live demo of the jekyll-lab-notebook software.
+  Here I store the results from my experiments.
 
 twitter_username: example
-github_username: example
+github_username: arjun23496
 
 permalink: /log/:year_:month/
 
