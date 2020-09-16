@@ -3,5 +3,6 @@
 .sass-cache
 _site
 Gemfile.lock
+notebooks
 
 demo/_posts
