@@ -32,6 +32,8 @@ jekyll-lab-notebook:
       dir: 'random/'
       hidden: true
 
+host: 0.0.0.0
+
 # live reload options
 livereload: true
 reload_port: 5678
